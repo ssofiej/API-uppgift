@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+    margin: 0 auto;
+   
+}
+
+
+h1 {
+
+    text-align: center;
+    
+
+}
+
+#linkadmin {
+    text-align: right;
+    display: block;
+    padding-right: 1rem;
+} 
+
+#div {
+    text-align: center;
+    display: block;
+    padding: 5%;
+}
+
+
+
+
+
+
+
+
